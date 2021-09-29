@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ck
-- 👀 I’m interested in JavaScript, Java and Html
+- 👀 I’m interested in JavaScript, Java, TypeScript and Html
 - 🌱 I’m currently learning JavaSript
 - 📫 How to reach me odiador de joao pedro#3881 on discord
 
