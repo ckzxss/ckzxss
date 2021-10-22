@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ck
-- 👀 I’m interested in JavaScript, Java, TypeScript and Html
-- 🌱 I’m currently learning JavaSript, Java, TypeScript Html and CSS
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaSript
 - 📫 How to reach me ck ✪#3881 on discord
 
 <div align="center">
@@ -11,10 +11,6 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Ck-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ck-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ck-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892472798474289162/892946123566776370/aaq.gif">
 </div>
   
