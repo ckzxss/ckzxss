@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/375001383537082392.png"/>
-</p>
-
 - 👋 Hi, I’m ck
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaSript
