@@ -1,7 +1,6 @@
-- 👋 Hi, I’m ck
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaSript
-- 📫 How to reach me ck#6773 on discord
+- 👋 Hi, I’m ck.
+- 👀 I’m interested in JavaScript, Python, C#, C, etc.
+- 🌱 I’m currently learning Python.
 
 <div align="center">
   <a href="https://github.com/ckzxss">
